@@ -5,7 +5,7 @@
 
 |**Название проекта**|**Описание**                      |**Используемые библиотеки (инструменты)**|    
 |:-------------------|:---------------------------------|:--------------------------|
-|[Анализ оттока клиентов Метанпромбанка](/outflow_of_bank_customers)|vvv|*pandas, numpy, math, scipy.stats, matplotlib.pyplot, seaborn, plotly.express, plotly (graph_objects)*|
+|[Анализ оттока клиентов Метанпромбанка](/outflow_of_bank_customers)|Анализ оттока клиентов банка для составления портретов клиентов, формирование и приоритизация сегментов клиентов, склонных уходить из банка. Подготовка рекомендаций и презентации для заказчика.|*pandas, numpy, math, scipy.stats, matplotlib.pyplot, seaborn, plotly.express, plotly (graph_objects)*|
 |[Рынок заведений общественного питания Москвы](/catering_market)|vvv|*pandas, numpy, matplotlib.pyplot, seaborn, plotly.express, plotly (graph_objects), json, folium (Map, Choropleth, Marker), folium.plugins (MarkerCluster)*|
 |[Анализ мобильного приложения по продаже продуктов питания](/mobile_app_analysis_AAB_test)|vvv|*pandas, numpy, datetime, scipy.stats, math, matplotlib.pyplot, seaborn*|
 |[Анализ базы данных сервиса для чтения книг по подписке](/book_reading_service)|vvv|*pandas, sqlalchemy (text, create_engine)*|
