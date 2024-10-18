@@ -6,7 +6,7 @@
 |**Название проекта**|**Описание**                      |**Используемые библиотеки (инструменты)**|    
 |:-------------------|:---------------------------------|:--------------------------|
 |[Анализ оттока клиентов Метанпромбанка](/outflow_of_bank_customers)|vvv|*pandas, numpy, math, scipy.stats, matplotlib.pyplot, seaborn, plotly.express, plotly (graph_objects)*|
-|Рынок заведений общественного питания Москвы|vvv|*pandas, numpy, matplotlib.pyplot, seaborn, plotly.express, plotly (graph_objects), json, folium (Map, Choropleth, Marker), folium.plugins (MarkerCluster)*|
+|[Рынок заведений общественного питания Москвы](/)|vvv|*pandas, numpy, matplotlib.pyplot, seaborn, plotly.express, plotly (graph_objects), json, folium (Map, Choropleth, Marker), folium.plugins (MarkerCluster)*|
 |Анализ мобильного приложения по продаже продуктов питания|vvv|*pandas, numpy, datetime, scipy.stats, math, matplotlib.pyplot, seaborn*|
 |Анализ базы данных сервиса для чтения книг по подписке|vvv|*pandas, sqlalchemy (text, create_engine)*|
 |Дашборд на основе данных о конференциях TED|vvv|*Tableau Public*|
